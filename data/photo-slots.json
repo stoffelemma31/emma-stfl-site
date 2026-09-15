@@ -1,0 +1,33 @@
+[
+  { "id": "hero-main", "orientation": "landscape", "ratio": [16, 10], "tone": "deep", "category": "decor", "showOnHome": false, "alt": "Vue large sur la côte de l'Étang-Salé, lumière chaude en fin de journée — photo à venir" },
+
+  { "id": "sequence-01", "orientation": "landscape", "ratio": [4, 3], "tone": "sand", "category": "decor", "showOnHome": false, "alt": "Instant volé au bord de l'eau — photo à venir" },
+  { "id": "sequence-02", "orientation": "landscape", "ratio": [4, 3], "tone": "warm", "category": "decor", "showOnHome": false, "alt": "Détail lumineux d'un moment partagé — photo à venir" },
+  { "id": "sequence-03", "orientation": "landscape", "ratio": [4, 3], "tone": "deep", "category": "decor", "showOnHome": false, "alt": "Silhouette sur la plage au couchant — photo à venir" },
+
+  { "id": "manifesto-left", "orientation": "portrait", "ratio": [4, 5], "tone": "cool", "category": "decor", "showOnHome": false, "alt": "Portrait en lumière naturelle, ambiance argentique — photo à venir" },
+  { "id": "manifesto-right", "orientation": "portrait", "ratio": [4, 5], "tone": "warm", "category": "decor", "showOnHome": false, "alt": "Portrait en mouvement, grain et couleurs chaudes — photo à venir" },
+
+  { "id": "about-portrait", "orientation": "portrait", "ratio": [4, 5], "tone": "deep", "category": "decor", "showOnHome": false, "alt": "Portrait de la photographe avec son Fujifilm X100VI — photo à venir" },
+
+  { "id": "offer-portrait", "orientation": "portrait", "ratio": [4, 5], "tone": "warm", "category": "portrait", "showOnHome": false, "alt": "Séance portrait en extérieur — photo à venir" },
+  { "id": "offer-couple", "orientation": "portrait", "ratio": [4, 5], "tone": "sand", "category": "couple", "showOnHome": false, "alt": "Séance couple face à la mer — photo à venir" },
+  { "id": "offer-metiers", "orientation": "portrait", "ratio": [4, 5], "tone": "cool", "category": "metiers", "showOnHome": false, "alt": "Séance portrait métier en situation — photo à venir" },
+
+  { "id": "gallery-01", "orientation": "portrait", "ratio": [4, 5], "tone": "warm", "category": "portrait", "showOnHome": true, "alt": "Portrait en noir et blanc, allongée contre un rocher au bord de mer" },
+  { "id": "gallery-02", "orientation": "landscape", "ratio": [3, 2], "tone": "deep", "category": "couple", "showOnHome": true, "alt": "Couple marchant le long du littoral — photo à venir" },
+  { "id": "gallery-03", "orientation": "portrait", "ratio": [4, 5], "tone": "sand", "category": "metiers", "showOnHome": true, "alt": "Portrait professionnel en atelier — photo à venir" },
+  { "id": "gallery-04", "orientation": "landscape", "ratio": [4, 3], "tone": "cool", "category": "portrait", "showOnHome": true, "alt": "Portrait assis au bord de l'eau — photo à venir" },
+  { "id": "gallery-05", "orientation": "portrait", "ratio": [3, 4], "tone": "warm", "category": "couple", "showOnHome": true, "alt": "Couple, rires et lumière rasante — photo à venir" },
+  { "id": "gallery-06", "orientation": "landscape", "ratio": [3, 2], "tone": "deep", "category": "metiers", "showOnHome": true, "alt": "Portrait de créatrice dans son studio — photo à venir" },
+  { "id": "gallery-07", "orientation": "portrait", "ratio": [4, 5], "tone": "sand", "category": "portrait", "showOnHome": false, "alt": "Portrait en noir et blanc, en maillot une pièce contre un rocher" },
+  { "id": "gallery-08", "orientation": "portrait", "ratio": [4, 5], "tone": "cool", "category": "couple", "showOnHome": false, "alt": "Couple complice dans l'écume, face à un lagon turquoise" },
+  { "id": "gallery-09", "orientation": "landscape", "ratio": [4, 3], "tone": "warm", "category": "metiers", "showOnHome": false, "alt": "Portrait de sportif en plein effort — photo à venir" },
+  { "id": "gallery-10", "orientation": "landscape", "ratio": [3, 2], "tone": "sand", "category": "portrait", "showOnHome": false, "alt": "Portrait pieds nus sur le sable — photo à venir" },
+  { "id": "gallery-11", "orientation": "portrait", "ratio": [3, 4], "tone": "deep", "category": "couple", "showOnHome": false, "alt": "Couple face à l'océan, ciel dégagé — photo à venir" },
+  { "id": "gallery-12", "orientation": "portrait", "ratio": [4, 5], "tone": "cool", "category": "metiers", "showOnHome": false, "alt": "Portrait d'artisan avec ses outils — photo à venir" },
+  { "id": "gallery-13", "orientation": "landscape", "ratio": [4, 3], "tone": "warm", "category": "portrait", "showOnHome": false, "alt": "Portrait en marche, lumière dorée — photo à venir" },
+  { "id": "gallery-14", "orientation": "portrait", "ratio": [4, 5], "tone": "sand", "category": "couple", "showOnHome": false, "alt": "Couple, instant complice au coucher du soleil — photo à venir" },
+  { "id": "gallery-15", "orientation": "portrait", "ratio": [4, 5], "tone": "warm", "category": "portrait", "showOnHome": false, "alt": "Portrait sur un toit-terrasse, regard par-dessus l'épaule" },
+  { "id": "gallery-16", "orientation": "portrait", "ratio": [4, 5], "tone": "cool", "category": "portrait", "showOnHome": false, "alt": "Portrait en mouvement dans un escalier, robe blanche" }
+]
