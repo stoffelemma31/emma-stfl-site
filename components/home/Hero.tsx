@@ -27,7 +27,7 @@ export function Hero() {
 
       <div className="pointer-events-none absolute inset-0 bg-black/25" />
 
-      <div className="absolute inset-x-0 top-[45%] flex -translate-y-1/2 flex-col items-center gap-6 px-5 text-center drop-shadow-sm">
+      <div className="absolute inset-x-0 top-[53%] flex -translate-y-1/2 flex-col items-center gap-6 px-5 text-center drop-shadow-sm md:top-[45%]">
         <MixedTitle lines={hero.titleLines} size="md" scale={1.1} color="#faf5ee" />
         <Link
           href="#offres"
