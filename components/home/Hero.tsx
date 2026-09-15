@@ -9,15 +9,20 @@ export function Hero() {
   const photo = getPhoto("hero-main");
 
   return (
-    <section data-hero className="relative w-full overflow-hidden">
+    <section data-hero className="relative w-full min-h-[70svh] overflow-hidden md:min-h-0">
       <h1 className="sr-only">
         {site.brandName} {site.brandScript} — {site.locationShort}
       </h1>
+      {/* On mobile the 16:10 photo alone would be too short to fit the
+          centered title without colliding with the fixed header — so it
+          fills the section's own min-height instead. Desktop is untouched:
+          the section reverts to its normal aspect-ratio-driven height. */}
       <Photo
         photo={photo}
         sizes="100vw"
         priority
         alt={`${site.brandName} ${site.brandScript} — ${site.locationShort}`}
+        className="max-md:!absolute max-md:inset-0 max-md:h-full"
       />
 
       <div className="pointer-events-none absolute inset-0 bg-black/25" />

@@ -12,7 +12,7 @@ export function Manifesto() {
 
   return (
     <section className="bg-beige px-5 py-16 md:py-24">
-      <div className="mx-auto flex max-w-4xl items-center justify-between">
+      <div className="mx-auto flex max-w-4xl flex-col items-center gap-2 text-center md:flex-row md:items-center md:justify-between md:text-left">
         <MicroLabel>{manifesto.eyebrowLeft}</MicroLabel>
         <span className="font-sans text-[11px] font-black uppercase tracking-[0.25em] text-deep sm:text-sm">
           {site.brandName} {site.brandScript}
@@ -27,10 +27,10 @@ export function Manifesto() {
 
       <div className="relative mx-auto mt-10 max-w-3xl md:mt-16">
         <div className="hidden md:block absolute left-0 top-0 w-[22%] max-w-[260px] -translate-x-[55%] translate-y-4">
-          <Photo photo={left} sizes="22vw" className="w-full shadow-md" />
+          <Photo photo={left} sizes="22vw" className="w-full" />
         </div>
         <div className="hidden md:block absolute right-0 bottom-0 w-[22%] max-w-[260px] translate-x-[55%] -translate-y-4">
-          <Photo photo={right} sizes="22vw" className="w-full shadow-md" />
+          <Photo photo={right} sizes="22vw" className="w-full" />
         </div>
 
         <Reveal className="flex flex-col items-center gap-8 px-0 md:px-16">
