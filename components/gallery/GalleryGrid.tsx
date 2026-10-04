@@ -9,11 +9,12 @@ interface GalleryGridProps {
   photos: Photo[];
 }
 
+// "Métiers" is omitted for now — no real photos in that category yet. Add it
+// back here once some exist.
 const CATEGORIES: { id: PhotoCategory | "all"; label: string }[] = [
   { id: "all", label: "Tout" },
   { id: "portrait", label: "Portrait" },
   { id: "couple", label: "Couple" },
-  { id: "metiers", label: "Métiers" },
 ];
 
 export function GalleryGrid({ photos }: GalleryGridProps) {
