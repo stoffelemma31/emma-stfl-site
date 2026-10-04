@@ -84,42 +84,6 @@
     "alt": "Portrait de la photographe avec son Fujifilm X100VI — photo à venir"
   },
   {
-    "id": "offer-portrait",
-    "orientation": "portrait",
-    "ratio": [
-      4,
-      5
-    ],
-    "tone": "warm",
-    "category": "portrait",
-    "showOnHome": false,
-    "alt": "Séance portrait en extérieur — photo à venir"
-  },
-  {
-    "id": "offer-couple",
-    "orientation": "portrait",
-    "ratio": [
-      4,
-      5
-    ],
-    "tone": "sand",
-    "category": "couple",
-    "showOnHome": false,
-    "alt": "Séance couple face à la mer — photo à venir"
-  },
-  {
-    "id": "offer-metiers",
-    "orientation": "portrait",
-    "ratio": [
-      4,
-      5
-    ],
-    "tone": "cool",
-    "category": "metiers",
-    "showOnHome": false,
-    "alt": "Séance portrait métier en situation — photo à venir"
-  },
-  {
     "id": "gallery-01",
     "orientation": "portrait",
     "ratio": [
