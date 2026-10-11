@@ -36,7 +36,7 @@ export const offers: Offer[] = [
     name: "Couple",
     duration: "1h30 de shooting",
     durationMinutes: 90,
-    price: 350,
+    price: 345,
     features: [
       "1h30 de shooting",
       "20 photos retouchées",
@@ -49,7 +49,7 @@ export const offers: Offer[] = [
     name: "Portraits métiers",
     duration: "1h30 de shooting",
     durationMinutes: 90,
-    price: 350,
+    price: 345,
     features: [
       "Pour studios de pilates, sportifs, créateurs, artisans",
       "1h30 de shooting",
