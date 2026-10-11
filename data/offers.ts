@@ -23,7 +23,7 @@ export const offers: Offer[] = [
     name: "Portrait",
     duration: "1h de shooting",
     durationMinutes: 60,
-    price: 300,
+    price: 290,
     features: [
       "1h de shooting",
       "15 photos retouchées",
